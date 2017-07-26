@@ -1,0 +1,27 @@
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.stage.Stage}
+    - {name: title, value: Application Login}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.stage.Stage}
+    - {method: equals, name: title, value: Application Login}
+    containerTitles: [Application Login]
+    fileName: Application Login_9162517059020481579.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.stage.Stage}
+    - {name: title, value: New Account Page}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.stage.Stage}
+    - {method: equals, name: title, value: New Account Page}
+    containerTitles: [New Account Page]
+    fileName: New Account Page_8175238572686681819.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: type, value: javafx.stage.Stage}
+    - {name: title, value: Restaurant List Page}
+    containerRecognitionProperties:
+    - {method: equals, name: type, value: javafx.stage.Stage}
+    - {method: equals, name: title, value: Restaurant List Page}
+    containerTitles: [Restaurant List Page]
+    fileName: Restaurant List Page_6586801208227066998.yaml

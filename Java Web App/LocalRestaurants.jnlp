@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="LocalRestaurants.jnlp">
+  <information>
+    <title>LocalRestaurants</title>
+    <vendor>Matt Wilchek</vendor>
+    <description>Local Restaurant Locator</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="LocalRestaurants.jar" size="2337872" download="eager" />
+    <jar href="libs\GMapsFX-2.12.0.jar" size="208526" download="eager" />
+    <jar href="libs\jcl-over-slf4j-1.7.2-sources.jar" size="24122" download="eager" />
+    <jar href="libs\jcl-over-slf4j-1.7.2.jar" size="17573" download="eager" />
+    <jar href="libs\jul-to-slf4j-1.7.2-sources.jar" size="5711" download="eager" />
+    <jar href="libs\jul-to-slf4j-1.7.2.jar" size="5924" download="eager" />
+    <jar href="libs\junit.jar" size="320477" download="eager" />
+    <jar href="libs\log4j-over-slf4j-1.7.2-sources.jar" size="28074" download="eager" />
+    <jar href="libs\log4j-over-slf4j-1.7.2.jar" size="22225" download="eager" />
+    <jar href="libs\org.hamcrest.core_1.3.0.v201303031735.jar" size="56105" download="eager" />
+    <jar href="libs\poi-3.16.jar" size="2708021" download="eager" />
+    <jar href="libs\poi-examples-3.16.jar" size="373814" download="eager" />
+    <jar href="libs\poi-excelant-3.16.jar" size="32413" download="eager" />
+    <jar href="libs\poi-ooxml-3.16.jar" size="1445283" download="eager" />
+    <jar href="libs\poi-ooxml-schemas-3.16.jar" size="5963806" download="eager" />
+    <jar href="libs\poi-scratchpad-3.16.jar" size="1397294" download="eager" />
+    <jar href="libs\slf4j-api-1.7.2-sources.jar" size="48590" download="eager" />
+    <jar href="libs\slf4j-api-1.7.2.jar" size="27406" download="eager" />
+    <jar href="libs\slf4j-ext-1.7.2-sources.jar" size="44574" download="eager" />
+    <jar href="libs\slf4j-ext-1.7.2.jar" size="43580" download="eager" />
+    <jar href="libs\slf4j-jdk14-1.7.2-sources.jar" size="10149" download="eager" />
+    <jar href="libs\slf4j-jdk14-1.7.2.jar" size="8880" download="eager" />
+    <jar href="libs\slf4j-log4j12-1.7.2-sources.jar" size="11355" download="eager" />
+    <jar href="libs\slf4j-log4j12-1.7.2.jar" size="9871" download="eager" />
+    <jar href="libs\slf4j-migrator-1.7.2.jar" size="29910" download="eager" />
+    <jar href="libs\slf4j-nop-1.7.2-sources.jar" size="5369" download="eager" />
+    <jar href="libs\slf4j-nop-1.7.2.jar" size="5093" download="eager" />
+    <jar href="libs\slf4j-simple-1.7.2-sources.jar" size="12359" download="eager" />
+    <jar href="libs\slf4j-simple-1.7.2.jar" size="11689" download="eager" />
+  </resources>
+<security>
+  <all-permissions/>
+</security>
+  <jfx:javafx-desc  width="800" height="600" main-class="views.LoginDriver"  name="Local Restaurant Locator" />
+  <update check="background"/>
+</jnlp>

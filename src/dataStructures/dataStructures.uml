@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>dataStructures</OriginalElement>
+  <nodes>
+    <node x="1840.0" y="1859.0">dataStructures.LinkedListNode</node>
+    <node x="1548.0" y="1859.0">dataStructures.QueueNode</node>
+    <node x="1255.0" y="1859.0">dataStructures.UnboundedQueueInterface</node>
+    <node x="753.0" y="1859.0">dataStructures.arrayList</node>
+    <node x="512.0" y="1051.0">dataStructures.AntColonyOptimization</node>
+    <node x="0.0" y="2005.0">dataStructures.Heap</node>
+    <node x="302.25" y="778.0">dataStructures.IndexedList</node>
+    <node x="1684.5" y="1051.0">dataStructures.LinkedQueue</node>
+    <node x="159.5" y="1051.0">dataStructures.Iterator</node>
+    <node x="325.25" y="0.0">dataStructures.InterfaceList</node>
+    <node x="992.0" y="0.0">dataStructures.WeightedGraphInterface</node>
+    <node x="1571.0" y="323.0">dataStructures.BinarySearchTree</node>
+    <node x="117.0" y="1174.0">dataStructures.InterfaceOrderedList</node>
+    <node x="1867.0" y="1419.5">dataStructures.LinkedQueue.Node</node>
+    <node x="818.0" y="322.0">dataStructures.weightedGraph</node>
+    <node x="1734.5" y="0.0">dataStructures.BSTInterface</node>
+    <node x="1281.5" y="1051.0">dataStructures.InterfaceStack</node>
+    <node x="1648.0" y="1397.0">dataStructures.LinkedQueue.ListIterator</node>
+    <node x="448.0" y="2027.0">dataStructures.LinkedStack</node>
+    <node x="0.0" y="1408.0">dataStructures.LinkedOrderedList</node>
+    <node x="527.0" y="422.5">dataStructures.InterfaceIndexedList</node>
+    <node x="464.0" y="1859.0">dataStructures.UnboundedStackInterface</node>
+    <node x="1204.0" y="2005.0">dataStructures.LinkedUnboundQueue</node>
+    <node x="0.0" y="256.0">dataStructures.UnsortedList</node>
+    <node x="0.0" y="2324.0">dataStructures.BSTNode</node>
+    <node x="1330.0" y="1285.0">dataStructures.InterfaceLinkedListStack</node>
+    <node x="95.5" y="1859.0">dataStructures.PriorityQueueInterface</node>
+    <node x="257.0" y="2324.0">dataStructures.Item</node>
+    <node x="1232.0" y="1386.0">dataStructures.LinkedListStack</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="dataStructures.LinkedQueue.ListIterator" target="dataStructures.LinkedQueue">
+      <point x="0.0" y="-59.0" />
+      <point x="1747.5" y="1372.0" />
+      <point x="1763.25" y="1372.0" />
+      <point x="-78.75" y="148.0" />
+    </edge>
+    <edge source="dataStructures.LinkedQueue.Node" target="dataStructures.LinkedQueue">
+      <point x="0.0" y="-36.5" />
+      <point x="1936.5" y="1372.0" />
+      <point x="1920.75" y="1372.0" />
+      <point x="78.75" y="148.0" />
+    </edge>
+    <edge source="dataStructures.InterfaceOrderedList" target="dataStructures.Iterator">
+      <point x="0.0" y="-92.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="dataStructures.LinkedListStack" target="dataStructures.InterfaceLinkedListStack">
+      <point x="0.0" y="-114.5" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="dataStructures.IndexedList" target="dataStructures.InterfaceIndexedList">
+      <point x="74.75" y="-114.0" />
+      <point x="526.5" y="753.0" />
+      <point x="650.0" y="753.0" />
+      <point x="0.0" y="69.5" />
+    </edge>
+    <edge source="dataStructures.IndexedList" target="dataStructures.UnsortedList">
+      <point x="-74.75" y="-114.0" />
+      <point x="377.0" y="753.0" />
+      <point x="253.5" y="753.0" />
+      <point x="0.0" y="236.0" />
+    </edge>
+    <edge source="dataStructures.Heap" target="dataStructures.PriorityQueueInterface">
+      <point x="0.0" y="-137.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="dataStructures.BinarySearchTree" target="dataStructures.BSTInterface">
+      <point x="0.0" y="-291.0" />
+      <point x="0.0" y="136.5" />
+    </edge>
+    <edge source="dataStructures.LinkedUnboundQueue" target="dataStructures.UnboundedQueueInterface">
+      <point x="0.0" y="-103.5" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="dataStructures.UnsortedList" target="dataStructures.InterfaceList">
+      <point x="0.0" y="-236.0" />
+      <point x="253.5" y="231.0" />
+      <point x="388.5" y="231.0" />
+      <point x="-63.25" y="103.0" />
+    </edge>
+    <edge source="dataStructures.LinkedStack" target="dataStructures.UnboundedStackInterface">
+      <point x="0.0" y="-103.5" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="dataStructures.InterfaceLinkedListStack" target="dataStructures.InterfaceStack">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="92.0" />
+    </edge>
+    <edge source="dataStructures.LinkedOrderedList" target="dataStructures.InterfaceOrderedList">
+      <point x="0.0" y="-203.0" />
+      <point x="0.0" y="92.0" />
+    </edge>
+    <edge source="dataStructures.InterfaceIndexedList" target="dataStructures.InterfaceList">
+      <point x="0.0" y="-69.5" />
+      <point x="650.0" y="231.0" />
+      <point x="515.0" y="231.0" />
+      <point x="63.25" y="103.0" />
+    </edge>
+    <edge source="dataStructures.weightedGraph" target="dataStructures.WeightedGraphInterface">
+      <point x="0.0" y="-335.0" />
+      <point x="0.0" y="136.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7408610885458976" x="1118.1327454718776" y="1137.911582459485" />
+  <SelectedNodes>
+    <node>dataStructures.LinkedListNode</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

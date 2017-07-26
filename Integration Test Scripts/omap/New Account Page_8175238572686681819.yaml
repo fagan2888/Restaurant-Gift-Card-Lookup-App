@@ -1,0 +1,92 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: Id, value: userName}
+    - {method: equals, name: tagName, value: text-field}
+    generalProperties:
+    - {name: name, value: userName}
+    - {name: id, value: userName}
+    - {name: tagName, value: text-field}
+    - {name: Id, value: userName}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javafx.scene.control.TextField}
+    - {name: instanceOf, value: javafx.scene.control.TextField}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: text-field}
+    name: userName
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: Id, value: password}
+    - {method: equals, name: tagName, value: password-field}
+    generalProperties:
+    - {name: name, value: password}
+    - {name: id, value: password}
+    - {name: tagName, value: password-field}
+    - {name: Id, value: password}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javafx.scene.control.PasswordField}
+    - {name: instanceOf, value: javafx.scene.control.PasswordField}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: password-field}
+    name: password
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: Id, value: password2}
+    - {method: equals, name: tagName, value: password-field}
+    generalProperties:
+    - {name: name, value: password2}
+    - {name: id, value: password2}
+    - {name: tagName, value: password-field}
+    - {name: Id, value: password2}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javafx.scene.control.PasswordField}
+    - {name: instanceOf, value: javafx.scene.control.PasswordField}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: password-field}
+    name: password2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Browse}
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Browse}
+    - {name: indexOfType, value: '1'}
+    name: Browse
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: button}
+    - {method: equals, name: cText, value: Register}
+    generalProperties:
+    - {name: component.class.name, value: javafx.scene.control.Button}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: button}
+    - {name: instanceOf, value: javafx.scene.control.Button}
+    - {name: type, value: button}
+    - {name: cText, value: Register}
+    - {name: indexOfType, value: '0'}
+    name: Register
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: Id, value: profilePic}
+    - {method: equals, name: tagName, value: text-field}
+    generalProperties:
+    - {name: name, value: profilePic}
+    - {name: id, value: profilePic}
+    - {name: tagName, value: text-field}
+    - {name: Id, value: profilePic}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javafx.scene.control.TextField}
+    - {name: instanceOf, value: javafx.scene.control.TextField}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: text-field}
+    name: profilePic
+    used: true

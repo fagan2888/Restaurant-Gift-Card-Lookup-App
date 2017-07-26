@@ -1,0 +1,29 @@
+
+
+Version:	3.10
+CmdLine:	E:\Programming\CSC 202 Work\FinalProject2\out\production\FinalProject2\views\FinalProject2.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Programming\CSC 202 Work\FinalProject2\out\production\FinalProject2\views\.
+Java min ver:	1.6.0_01
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_141
+Check launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe (OK)
+Match:		1.8.0_141
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_141
+Ignore:		1.8.0_141
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_141 (64-bit)
+Main class:	views.LoginDriver
+Add classpath:	views.LoginDriver
+Launcher:	C:\Program Files\Java\jre1.8.0_141\bin\javaw.exe
+Launcher args:	-classpath "E:\Programming\CSC 202 Work\FinalProject2\out\production\FinalProject2\views\FinalProject2.exe;views.LoginDriver" views.LoginDriver
+Args length:	143/32768 chars
+Exit code:	0

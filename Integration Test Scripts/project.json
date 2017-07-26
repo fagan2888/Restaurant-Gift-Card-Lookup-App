@@ -1,0 +1,57 @@
+{
+  "ace-editor": {},
+  "workspace": {"state": {"dockables": [
+    "Navigator",
+    "TestCases/GetDirections.rb",
+    "TestCases/CreateAccount.rb",
+    "TestCases/AroundYouTest.rb",
+    "Results",
+    "Log",
+    "Output"
+  ]}},
+  "marathon": {},
+  "display": {
+    "iconified": false,
+    "maximized": true,
+    "window.w": 1936,
+    "window.x": -8,
+    "window.h": 1056,
+    "fullScreen": false,
+    "window.y": -8
+  },
+  "navigator": {},
+  "project": {"fixture": "default"},
+  "theme": {
+    "path": "/themes/solarizedDark.css",
+    "builtin": false,
+    "name": "SolarizedDark"
+  },
+  "project-settings": {
+    "marathon.application.vm.arguments": "",
+    "marathon.project.launcher.model": "com.jaliansystems.marathonite.launchers.executablejar.FXExecutableJarLauncherModel",
+    "marathon.application.working.dir": "",
+    "marathon.project.name": "RestaurantLocatorTest",
+    "marathon.capture.dir": "%marathon.project.dir%/Modules",
+    "allure.tests.management.pattern": "",
+    "marathon.application.launchtime": "60000",
+    "marathon.suite.dir": "%marathon.project.dir%/TestSuites",
+    "marathon.aut.executable.launch": "%marathon.project.dir%/../../FinalProject2/out/artifacts/FinalProject2_jar/FinalProject2.jar",
+    "marathon.application.arguments": "",
+    "marathon.story.dir": "%marathon.project.dir%/Stories",
+    "marathon.application.start.window": "RestaurantLocatorTest",
+    "marathon.checklist.dir": "%marathon.project.dir%/Checklists",
+    "allure.issues.tracker.pattern": "",
+    "marathon.data.dir": "%marathon.project.dir%/TestData",
+    "marathon.application.mainclass": "LoginDriver",
+    "marathon.project.description": "",
+    "marathon.issue.dir": "%marathon.project.dir%/Issues",
+    "marathon.feature.dir": "%marathon.project.dir%/Features",
+    "marathon.application.classpath": "%marathon.project.dir%/../out/production/Program/views",
+    "marathon.application.rubyhome": "",
+    "marathon.test.dir": "%marathon.project.dir%/TestCases",
+    "marathon.application.java.home": "C:\\Program Files (x86)\\Java\\jdk1.8.0_66",
+    "marathon.project.script.model": "com.jaliansystems.marathonite.refactor.ruby.MarathonITERubyScriptModel",
+    "marathon.fixture.dir": "%marathon.project.dir%/Fixtures",
+    "marathon.application.rubypath": ""
+  }
+}
