@@ -1,2 +1,4 @@
 # Restaruant-Gift-Card-Lookup-App
 This is the final project application I made for my advance java programming class.
+
+In this repository you will find a Test Summary report (.doc), a folder with my developed integrated test scripts that work on Marathon ITE, also a folder with final executable files for both Windows (in .jar and in .exe) as well as MacOS (as .app). I also included my program converted to a web app run from a local Apache Tomcat server (built in .jnlp).
