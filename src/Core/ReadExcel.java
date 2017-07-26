@@ -16,7 +16,7 @@ public class ReadExcel {
     @SuppressWarnings({ "unchecked", "unchecked" })
     public static List ReadExcel(String fileName) throws Exception {
         /** An excel file name. You can create a file name with a full path information. */
-        String filename = "E:\\Programming\\CSC 202 Work\\Assignment3\\src\\restaurants.xls";
+        String filename = fileName;
 
         /** Create an ArrayList to store the data read from excel sheet */
         List sheetData = new ArrayList();
